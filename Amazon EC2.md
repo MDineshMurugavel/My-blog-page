@@ -39,3 +39,5 @@ creat an account an account with your email address.
    - `<a href="URL">` for links
    - `<img src="IMAGE_URL" alt="description">` for images
 5. Save the changes by pressing `CTRL + X`, then `Y`, and finally `Enter`.
+
+6. ![Image](https://github.com/user-attachments/assets/ae927ef9-5691-446f-94ed-120ba6df59a7)
