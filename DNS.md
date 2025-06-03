@@ -1,5 +1,7 @@
 hello. 
+
 These are the steps to create a Domain name. 
+
 Domain name gives your website a desired name.
 
 This allows access to anyone who wants to visit the website
