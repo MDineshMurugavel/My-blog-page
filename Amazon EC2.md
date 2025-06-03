@@ -25,7 +25,7 @@ creat an account an account with your email address.
 4. Scroll down and click on "Connect".
 5. You will be connected to your instance.
 ### editing the web server
-1. Once connected,run the following command to update the package list.
+1. Once connected,run the following command on the terminal to update the package list.
      ```bash
      sudo apt update
 2. Run this command to start editing the web server.
