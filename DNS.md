@@ -11,6 +11,7 @@ provided on amazon EC2 instance.
 There are many domian name providers that you can choose from.
 I have chosen Godaddy to be my domain name provider.
 
+### Creating a godaddy account
 
 Firstly, visit the Godaddy wesbite with the link below.
 ```
