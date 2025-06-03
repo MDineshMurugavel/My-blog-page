@@ -1,6 +1,6 @@
-hello. 
+# Domain Name
 
-These are the steps to create a Domain name. 
+Hello
 
 Domain name gives your website a desired name.
 
@@ -9,6 +9,8 @@ provided on amazon EC2 instance.
 
 There are many domian name providers that you can choose from.
 I have chosen Godaddy to be my domain name provider.
+
+These are the steps to create a Domain name. 
 
 ### Creating a godaddy account
 
