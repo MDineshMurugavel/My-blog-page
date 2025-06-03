@@ -56,7 +56,11 @@ Look for the "Domain" option and click on it, you will be directed to page shown
 
 picture!!
 
-On the top left side of the page, below your purchased Domain name, loook for the "######DNS" option
+On the top left side of the page, below your purchased Domain name, look for the "DNS" option adn click on it. 
+
+You will now need to add a new DNS record.
+
+Click on " Add a new record "
 
 
 
