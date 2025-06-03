@@ -16,3 +16,14 @@ Firstly, visit the Godaddy wesbite with the link below.
 ```
 https://www.godaddy.com/en-au
 ```
+Sign up for an account wiht your preffered email.
+
+### Finding domain name 
+
+Look for " Find a new Domain", shown in the picture below.
+picture.!!!
+
+Search up for any Domain name that you prefer or you feel that will be suitable for your website. 
+
+
+
