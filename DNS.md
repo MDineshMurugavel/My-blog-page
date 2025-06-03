@@ -62,7 +62,32 @@ You will now need to add a new DNS record.
 
 Click on " Add a new record "
 
+You will then be presented with different fields to fill up 
 
+Picture
 
+Type
+* choose A
+
+Name
+* choose @
+
+Value
+* Toggle back to Amazon EC2 instance
+* start instance
+* click on "connect"
+* Under EC2 instance connect tab you can see the Public IPv4 address
+* copy Public IPv4 address
+* Go back to Godaddy website
+* Paste the Public IPv4 address under the "value" field
+
+TTL
+* will be automaticaly filled up
+
+Lastly, click "save" 
+
+For the record to be linked with the Domain name, it would usually take 1 - 48 hours
+
+Once the linking process is over, you can start using your Domain name.
 
 
