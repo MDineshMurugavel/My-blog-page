@@ -18,7 +18,7 @@ I have chosen Godaddy to be my domain name provider.
 ```
 https://www.godaddy.com/en-au
 ```
-2. Sign up for an account wiht your preffered email.
+2. Sign up for an account with your preffered email.
 
 ### Finding domain name 
 
