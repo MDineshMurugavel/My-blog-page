@@ -69,10 +69,10 @@ picture!!
 Picture
 
 Type
-* choose A
+* choose "A"
 
 Name
-* choose @
+* choose "@"
 
 Value
 * Toggle back to Amazon EC2 instance
