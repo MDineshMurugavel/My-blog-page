@@ -84,6 +84,7 @@ Value
 TTL
 * will be automaticaly filled up
 
+
 Lastly, click "save" 
 
 For the record to be linked with the Domain name, it would usually take 1 - 48 hours
