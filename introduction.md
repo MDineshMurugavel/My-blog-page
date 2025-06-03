@@ -44,7 +44,18 @@ You will also have to link your Domain Name to your webpage for it to function
 
 ### Summary 
 
-The details given above are a brief description on the requirements to start a Blog page. Do not worry if there is any difficulties understanding them, each step mentioned above is explained thoroughly in the video and the individual file dedicated to them.
+The details given above are a brief description on the requirements to start a Blog page. After reading them, please watch the video provided in the link below.
+
+### Video explainer
+
+This video shows every step in detail to create a Blog page 
+
+```
+
+```
+
+
+Do not worry if there is any difficulties the brief description or the video explainer, each step mentioned above is explained thoroughly in the individual file dedicated to them.
 
 
 
