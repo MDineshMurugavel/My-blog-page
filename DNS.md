@@ -24,8 +24,24 @@ Look for " Find a new Domain", shown in the picture below.
 
 picture.!!!
 
-Search up for any Domain name that you prefer or you feel that will be suitable for your website. 
+Search up for any Domain name that you prefer or you feel that will be suitable for your website. Make sure that you set a price range for the Domain name.
 
-# Important step:
+Setting a Price range is important as you would want to have a budget for your Domain name purchase. 
+
+The cheapest Domain name according to your preference would be sufficient. 
+
+### Purchasing Domain name 
+
+Click the "Make it yours" option.
+picture!!!
+You can choose to opt out full domain protection.
+
+Click on "Continue to cart"
+
+Check all the details listed on the page, the page would also show the total cost.
+
+Proceed by clicking "Ready for checkout"
+
+Enter your bank account details and purchase the Doamin name.
 
 
