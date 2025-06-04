@@ -40,13 +40,13 @@ picture!!!
 
 2. You can choose to opt out full domain protection.
 
-Click on "Continue to cart"
+3. Click on "Continue to cart"
 
-3. Check all the details listed on the page, the page would also show the total cost.
+4. Check all the details listed on the page, the page would also show the total cost.
 
-4. Proceed by clicking "Ready for checkout"
+5. Proceed by clicking "Ready for checkout"
 
-5. Enter your bank account details and purchase the Doamin name.
+6. Enter your bank account details and purchase the Doamin name.
 
 ### Adding DNS Record 
 
