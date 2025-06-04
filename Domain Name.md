@@ -37,7 +37,7 @@ https://www.godaddy.com/en-au
 
 1. Click the "Make it yours" option.
 
-picture!!!
+![Image](https://github.com/user-attachments/assets/9cfee378-67d5-4dce-b88a-69954d97c278)
 
 2. You can choose to opt out full domain protection.
 
@@ -57,7 +57,7 @@ picture!!!
 
 3. Look for the "Domain" option and click on it, you will be directed to page shown below. 
 
-picture!!
+![Image](https://github.com/user-attachments/assets/699691bb-7e7f-4408-94cb-a842c35c616b)
 
 4. On the top left side of the page, below your purchased Domain name, look for the "DNS" option adn click on it. 
 
@@ -67,7 +67,7 @@ picture!!
 
 7. You will then be presented with different fields to fill up 
 
-Picture
+![Image](https://github.com/user-attachments/assets/6e6634e3-6b8c-4c72-a947-93e540548621)
 
 Type
 * choose "A"
