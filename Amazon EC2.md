@@ -11,6 +11,9 @@ creat an account an account with your email address.
 1. Go to the AWS Management Console.
 2. Navigate to the EC2 Dashboard.
 3. Click on "Launch Instance".
+   
+![Image](https://github.com/user-attachments/assets/fb8531d3-f80d-410f-bd3f-5453a6656b4a)
+ 
 4. Give your webserver a name
 5. Choose an Amazon Machine Image (AMI) that suits your needs (e.g., Ubuntu, Amazon Linux).
 6. Select an instance type (e.g., t2.micro for free tier).
@@ -19,6 +22,9 @@ creat an account an account with your email address.
 9. under firewall (security groups) tab 
 - select "HTTP" and "HTTPS" options to allow web traffic
 10. Review and launch the instance.
+
+![Image](https://github.com/user-attachments/assets/b6a65c93-1304-4e68-a931-18d65ea6b692)
+  
 ### Connect to the instance
 1. Once the instance is running, select it from the EC2 Dashboard.
 2. Click on "Connect".
