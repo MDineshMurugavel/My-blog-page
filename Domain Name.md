@@ -50,7 +50,7 @@ picture!!!
 
 ### Adding DNS Record 
 
-1. Toggle back to home page 
+1. Toggle back to home page and click on Dashboard.
 
 2. Now that you have created a Domain name, it is important to link your webserver with your Domain name. This is so that you can access your website with your Domain name. 
 
