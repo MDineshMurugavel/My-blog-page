@@ -24,7 +24,7 @@ https://www.godaddy.com/en-au
 
 1. Look for " Find a new Domain", shown in the picture below.
 
-picture.!!!
+![Image](https://github.com/user-attachments/assets/84760f1c-43c0-464e-a70b-b3ad42e3dbc8)
 
 2. Search up for any Domain name that you prefer or you feel that will be suitable for your website. Make sure that you set a price range for the Domain name.
 
