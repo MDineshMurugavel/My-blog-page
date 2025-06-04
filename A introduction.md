@@ -40,6 +40,9 @@ You will also have to link your Domain Name to your webpage for it to function
 
 
 
+### Script
+
+
 
 
 ### Summary 
@@ -58,4 +61,8 @@ This video shows every step in detail to create a Blog page
 Do not worry if there is any difficulties the brief description or the video explainer, each step mentioned above is explained thoroughly in the individual file dedicated to them.
 
 
+### Pictures
 
+* The pictures shown in every file is an example on how the options would look and how each step is carried out.
+  
+* The green arrows in the pictures, points out to important things to look out for.
