@@ -44,7 +44,7 @@ picture!!!
 
 4. Check all the details listed on the page, the page would also show the total cost.
 
-5. Proceed by clicking "Ready for checkout"
+5. Proceed by clicking "Ready for checkout" at the bottom of the page
 
 6. Enter your bank account details and purchase the Doamin name.
 
