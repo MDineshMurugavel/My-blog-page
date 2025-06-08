@@ -65,6 +65,7 @@ https://aws.amazon.com/console/
     sudo certbot --apache -d *Your domain name*
     ```
 
-11. Once you have successfully ran all of these commands on the command prompt, you can exit the command prompt tab.
+11. Lastly, once you have successfully ran all of these commands on the command prompt, you can exit the command prompt tab.
 
-12. You will now notice that your blog page is secured 
+
+12. You will now notice that your blog page is secured.
