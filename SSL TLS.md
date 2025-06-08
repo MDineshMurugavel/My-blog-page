@@ -43,3 +43,28 @@ https://aws.amazon.com/console/
 5. ```
     sudo certbot certonly --standalone -d *Your domain name*
    ```
+
+6. ```
+   sudo apt update
+   ```
+* This commands helps to update all new updates and packages
+
+7. ```
+   sudo apt install certbot python3-certbot-apache
+   ```
+
+8. ```
+   sudo apt install certbot python3-certbot-apache
+   ```
+
+9. ```
+   cd /etc/apache2
+   ```
+
+10. ```
+    sudo certbot --apache -d *Your domain name*
+    ```
+
+11. Once you have successfully ran all of these commands on the command prompt, you can exit the command prompt tab.
+
+12. You will now notice that your blog page is secured 
