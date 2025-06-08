@@ -12,26 +12,29 @@ In order to have your own website for your own Blog page, you need to have the f
 
 ### Cloud based server (Amamzon EC2)
 
-The cloud based server is where your webserver will be hosted on.
+1. The cloud based server is where your webserver will be hosted on.
 
-You will be required to create an account and a instance. 
+2. You will be required to create an account and a instance. 
 
-You can then start designing your Blog page with HTML codes.
+3. You can then start designing your Blog page with HTML codes.
 
-You will be charged according to the services you use and the amount of time you use your instance for. 
+4. You will be charged according to the services you use and the amount of time you use your instance for. 
 
 ### Domain Name (Go daddy)
 
-The Domain name helps to provide your webpage a name that will replace the default name given in Amazon EC2 instance. 
+1. The Domain name helps to provide your webpage a name that will replace the default name given in Amazon EC2 instance. 
 
-You will be able to choose your own Domain Name.
+2. You will be able to choose your own Domain Name.
 
-You will be required to create an account and purchase your desired Domain Name
+3. You will be required to create an account and purchase your desired Domain Name
 
-You will also have to link your Domain Name to your webpage for it to function
+4. You will also have to link your Domain Name to your webpage for it to function
 
-### SSL 
+### SSL/TSL 
 
+1. Attaining an SSL/TSL certfificate is very important step as it keeps your webpage secure
+2. This allows HTTPS traffic, protecting the data of the user
+3. 
 
 
 
@@ -51,7 +54,7 @@ The details given above are a brief description on the requirements to start a B
 
 ### Video explainer
 
-This video shows every step in detail to create a Blog page 
+This video shows creating an EC2 instance, Domain Name and linking the Domain name to the webpage in detail. 
 
 ```
 
