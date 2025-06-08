@@ -26,5 +26,20 @@ https://aws.amazon.com/console/
 
 1. You can now start running these commands on your command prompt
 
-2. 
-3. 
+2. ```
+   sudo -i
+   ```
+* This command will give you super/root user privileages
+
+3. ```
+    netstat -tunlp
+   ```
+
+4. ```
+    sudo service apache2 stop
+   ```
+* This command is present to stop apache2 webserver
+
+5. ```
+    sudo certbot certonly --standalone -d *Your domain name*
+   ```
