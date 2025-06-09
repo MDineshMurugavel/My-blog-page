@@ -61,6 +61,8 @@ Press "enter", and you will be inside the file
   sudo apt autoremove
   ```
 
+  ![Image](https://github.com/user-attachments/assets/e3e53a7a-46b6-4259-aa66-fee652882e47)
+
     
 * This command will make this file executable
 
