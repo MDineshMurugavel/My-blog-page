@@ -35,12 +35,12 @@ touch auto_update.sh
 ```
 * auto_update.sh is my file name, it can also be change to any preffered name
   
-picture 
+![Image](https://github.com/user-attachments/assets/439658ac-d784-48c6-91b2-79aef0f47f69)
 
 
 Press "enter", and the file will be created 
 
-picture
+
 
 *To edit the file you will have to run this command 
 
@@ -49,6 +49,8 @@ nano auto_update.sh
 ```
 
 Press "enter", and you will be inside the file
+
+![Image](https://github.com/user-attachments/assets/e3e53a7a-46b6-4259-aa66-fee652882e47)
 
 
 * These two commands will update new packages and delete old ones
@@ -59,7 +61,7 @@ Press "enter", and you will be inside the file
   sudo apt autoremove
   ```
 
-  
+    
 * This command will make this file executable
 
   ```
@@ -72,6 +74,9 @@ Press "enter", and you will be inside the file
     crontab -e
     ```
     * choose "1" and press and enter
+ 
+    ![Image](https://github.com/user-attachments/assets/703a93d4-22e8-4e15-95fe-21108fd086ce)
+
 
 
 * This command will help you in choosing how often you want the update of packages and removal of old packages reptitively
@@ -85,7 +90,7 @@ Press "enter", and you will be inside the file
 * The order to fill up each fields are shown in the picture below
   
 
-    picture
+ ![Image](https://github.com/user-attachments/assets/ef7132dd-cbb0-49ee-a0cf-591a7ad02317)
 
   
 The script is now complete and it will reptitively execute updates and removal of packages.
