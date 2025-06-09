@@ -54,18 +54,14 @@ https://aws.amazon.com/console/
    ```
 
 8. ```
-   sudo apt install certbot python3-certbot-apache
-   ```
-
-9. ```
    cd /etc/apache2
    ```
 
-10. ```
+9. ```
     sudo certbot --apache -d *Your domain name*
     ```
 
-11. Lastly, once you have successfully ran all of these commands on the command prompt, you can exit the command prompt tab.
+10. Lastly, once you have successfully ran all of these commands on the command prompt, you can exit the command prompt tab.
 
 
-12. You will now notice that your blog page is secured.
+11. You will now notice that your blog page is secured.
