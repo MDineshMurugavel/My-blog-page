@@ -57,7 +57,7 @@ The details given above are a brief description on the requirements to start a B
 This video shows creating an EC2 instance, Domain Name and linking the Domain name to the webpage in detail. 
 
 ```
-
+https://drive.google.com/file/d/13A296QXKwBiP1_Loz5qTVbZp21BWA1BB/view?usp=sharing
 ```
 
 
