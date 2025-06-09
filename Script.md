@@ -98,7 +98,8 @@ Press "enter", and you will be inside the file
 The script is now complete and it will reptitively execute updates and removal of packages.
 
 
-Script reference
+
+### Script reference
 
 SavvyNik. (2023, September 7). Crontab in Linux - How to Schedule a Cron Job using Ubuntu. YouTube. https://www.youtube.com/watch?v=YA1wPJxeAmg
 
