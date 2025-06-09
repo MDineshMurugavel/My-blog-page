@@ -1,5 +1,7 @@
 Hi 
 
+### why scripting
+
 Scripting is used to automate tasks repeatedly (eg: New updates, creating files, deleting file)
 
 This is a script that I am implementing on my blog page
