@@ -34,8 +34,6 @@ In order to have your own website for your own Blog page, you need to have the f
 
 1. Attaining an SSL/TSL certfificate is very important step as it keeps your webpage secure
 2. This allows HTTPS traffic, protecting the data of the user
-3. 
-
 
 
 
@@ -45,6 +43,8 @@ In order to have your own website for your own Blog page, you need to have the f
 
 ### Script
 
+1. Script is a type of programming that is used to automate certain task without doing it manually
+2. The tasks that are automated are usually a repetitive task that needs to be carried out often, it can be hourly, daily, weekly and monthly.
 
 
 
