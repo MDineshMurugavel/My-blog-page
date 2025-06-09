@@ -26,36 +26,51 @@ https://aws.amazon.com/console/
 
 1. You can now start running these commands on your command prompt
 
+
+* This command will give you super/root user privileages
+
 2. ```
    sudo -i
    ```
-* This command will give you super/root user privileages
 
 3. ```
     netstat -tunlp
    ```
 
+
+* This command is present to stop apache2 webserver
+
 4. ```
     sudo service apache2 stop
    ```
-* This command is present to stop apache2 webserver
+
+ * Enter this command next 
 
 5. ```
     sudo certbot certonly --standalone -d *Your domain name*
    ```
 
+
+* This commands helps to update all new updates and packages
+
 6. ```
    sudo apt update
    ```
-* This commands helps to update all new updates and packages
+
+ * Enter this command next 
 
 7. ```
    sudo apt install certbot python3-certbot-apache
    ```
 
+   
+ * Enter this command next
+   
 8. ```
    cd /etc/apache2
    ```
+
+ * Enter this command next 
 
 9. ```
     sudo certbot --apache -d *Your domain name*
