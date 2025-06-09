@@ -1,5 +1,14 @@
 # Welcome to My Blog Page
 
+Name: M.Dinesh s/o Murugavel
+Student ID : 35301756
+
+### This is my Domain name 
+
+```
+https://dineshblog.today/
+```
+
 This Documentation is presented to help you create a Blog page!
 
 There a few steps to follow which have been detailed in it's specific files 
